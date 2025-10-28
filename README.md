@@ -2,7 +2,10 @@
 <h3 align="center">An incredible (and modest) web3 developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI3b2czYWJsMmVuYTh6Zms4aWJybnI1OW9oc2w2Zm9xcnFoNnFiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Welcome banner" />
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI3b2czYWJsMmVuYTh6Zms4aWJybnI1OW9oc2w2Zm9xcnFoNnFiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Welcome banner" height="165px" />
+  <a href="https://github.com/tendosbg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendosbg&layout=compact&theme=dracula&hide_border=true" alt="Maxime's Top Languages" />
+  </a>
 </p>
 
 ---
@@ -12,6 +15,8 @@
 - 🌱 I’m currently learning **Solidity and Next.js**.
 - 📄 Know about my experiences: [**My Portfolio**](https://tendos.dev)
 - 📫 How to reach me: **maxime.delhaye28@gmail.com**
+
+
 
 ### Connect with me
 
