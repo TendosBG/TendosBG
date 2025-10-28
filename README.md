@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">A passionate Software Engineer from France !</h3>
+<h3 align="center">An incredible (and modest) web3 developer</h3>
 
 <p align="center">
-  <a href="https://github.com/tendosbg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendosbg&layout=compact&theme=dracula&hide_border=true" alt="Maxime's Top Languages" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI3b2czYWJsMmVuYTh6Zms4aWJybnI1OW9oc2w2Zm9xcnFoNnFiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Welcome banner" />
 </p>
 
 ---
