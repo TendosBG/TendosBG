@@ -3,9 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/tendosbg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tendosbg&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Maxime's GitHub Stats" />
-  </a>
-  <a href="https://github.com/tendosbg">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendosbg&layout=compact&theme=dracula&hide_border=true" alt="Maxime's Top Languages" />
   </a>
 </p>
